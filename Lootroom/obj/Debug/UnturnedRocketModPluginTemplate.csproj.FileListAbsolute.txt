@@ -1,0 +1,16 @@
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\bin\Debug\UnturnedRocketModPluginTemplate.dll
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\bin\Debug\UnturnedRocketModPluginTemplate.pdb
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\bin\Debug\Assembly-CSharp.dll
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\bin\Debug\Rocket.API.dll
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\bin\Debug\Rocket.Core.dll
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\bin\Debug\Rocket.Unturned.dll
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\bin\Debug\SDG.NetTransport.dll
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\bin\Debug\UnityEngine.dll
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\obj\Debug\UnturnedRocketModPluginTemplate.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\obj\Debug\UnturnedRocketModPluginTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\obj\Debug\UnturnedRocketModPluginTemplate.csproj.CopyComplete
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\obj\Debug\UnturnedRocketModPluginTemplate.dll
+C:\Users\Kamil\Desktop\Lootroom\Lootroom\obj\Debug\UnturnedRocketModPluginTemplate.pdb
